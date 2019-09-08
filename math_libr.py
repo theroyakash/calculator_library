@@ -17,8 +17,8 @@ Na = 6.022e23 # Avogadro's constant
 c = 3e8  # Approximate speed of light
 h = 6.626068e-34 # Planck's constant
 G = 6.67428e-11  # Universal gravitational constant
-epsi0 = 8.85418e-12 # permittivity of free space
-a0 = 5.3e-11 # Bohr radius
+epsilon_zero = 8.85418e-12 # permittivity of free space
+a_zero = 5.3e-11 # Bohr radius
 R = 8.314472 # Gas constant
 #------------------------------------------------------------------
 #-Standard Function defs-------------------------------------------
