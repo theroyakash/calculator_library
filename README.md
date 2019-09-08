@@ -1,2 +1,2 @@
-# calculator_library
+# Calculator Library for python
 It's a Python library, important functions, and mathematical operations are defined quite well to easily create a calculator. Just Import this python module to see magic.
